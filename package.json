@@ -2,7 +2,7 @@
   "name": "devops-demo",
   "version": "1.0.0",
   "description": "Demonstrating DevOps using Reveal.JS Presentations",
-  "homepage": "https://github.com/dr3dr3/devops-demo",
+  "homepage": "https://www.a9ile.com/present",
   "license": "MIT",
   "bin": {
     "reveal-md": "bin/reveal-md.js"
